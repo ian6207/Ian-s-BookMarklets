@@ -6,4 +6,8 @@ if (Player1 > Player2) {
   alert("Player 1 Wins!");
 }else{
   if (Player1 < Player2) {
-    
+    alert("Player 2 Wins!");
+  }else{
+    alert("Error");
+  }
+}
