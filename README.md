@@ -6,11 +6,17 @@
       <p>
         <a href="ValueGame.js">Value Game</a>
       </p>
+      <p>
+        <a href="AlertonPage.js">Alert on Page</a>
+      </p>
     </h5>
     <h3>All BookMarklets:</h3>
     <h5>
       <p>
         <a href="ValueGame.js">Value Game</a>
+      </p>
+      <p>
+        <a href="AlertonPage.js">Alert on Page</a>
       </p>
     </h5> 
   </body>
