@@ -2,4 +2,4 @@
 var inner = prompt("HTML");
 const WebPage = document.createElement('div');
 WebPage.innerHTML = inner;
-document.appendChild("inner");
+document.body.appendChild("inner");
