@@ -4,10 +4,7 @@
     <h3>Recent BookMarklets Added:</h3>
     <h5>
       <p>
-        <a href="BEO.js">BEO</a>
-      </p>
-      <p>
-        <a href="BEOBEO.js">BEO BEO</a>
+        Empty
       </p>
     </h5>
     <h3>All BookMarklets:</h3>
