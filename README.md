@@ -4,11 +4,13 @@
     <h3>Recent BookMarklets Added:</h3>
     <h5>
       <p>
-        Empty
+        <a href="TextEditor.js">Text Editor</a>
       </p>
     </h5>
     <h3>All BookMarklets:</h3>
     <h5>
+      <p>
+        <a href="TextEditor.js">Text Editor</a>
       <p>
         <a href="ValueGame.js">Value Game</a>
       </p>
