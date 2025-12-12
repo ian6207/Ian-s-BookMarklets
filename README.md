@@ -4,7 +4,7 @@
     <h3>Recent BookMarklets Added:</h3>
     <h5>
       <p>
-        <a href="TextEditor.js">Text Editor</a>
+        None
       </p>
     </h5>
     <h3>All BookMarklets:</h3>
