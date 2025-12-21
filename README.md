@@ -11,8 +11,6 @@
     <h5>
       <p>
         <a href="TextEditor.js">Text Editor</a>
-      <p>
-        <a href="ValueGame.js">Value Game</a>
       </p>
       <p>
         <a href="AlertonPage.js">Alert on Page</a>
