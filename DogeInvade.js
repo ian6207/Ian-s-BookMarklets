@@ -1,1 +1,1 @@
-javascript:var Kids = document.getElementsByTagName("img"); for (let Teacher of Kids) {Teacher.src = "https://static.wikia.nocookie.net/sanicsource/images/9/97/Doge.jpg/revision/latest%3Fcb%3D20160112233015&s=10";}
+javascript:var Kids = document.getElementsByTagName("img"); for (let Teacher of Kids) {Teacher.src = "https://static.wikia.nocookie.net/sanicsource/images/9/97/Doge.jpg";}
