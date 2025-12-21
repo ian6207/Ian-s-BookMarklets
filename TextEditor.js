@@ -1,2 +1,2 @@
 //Makes the body editable
-document.body.contentEditable = "true";
+javascript:document.body.contentEditable = "true";
