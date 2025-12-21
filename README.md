@@ -10,6 +10,9 @@
     <h3>All BookMarklets:</h3>
     <h5>
       <p>
+        <a href="DogeInvade.js">Doge Invade</a>
+      </p>
+      <p>
         <a href="TextEditor.js">Text Editor</a>
       </p>
       <p>
