@@ -1,0 +1,1 @@
+javascript:var Kids = document.getElementsByTagName("img"); for (let Teacher of Kids) {Teacher.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TJjVyZKc3CINaL4y-fYo-akG8KRtTrOgZrIlCIJ82o33s8ofNtfPlEEn:https://static.wikia.nocookie.net/sanicsource/images/9/97/Doge.jpg/revision/latest%3Fcb%3D20160112233015&s=10";}
