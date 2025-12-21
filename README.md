@@ -4,11 +4,17 @@
     <h3>Recent BookMarklets Added:</h3>
     <h5>
       <p>
+        <a href="JSconsole.js">JavaScript Console</a>
+      </p>
+      <p>
         <a href="DogeInvade.js">Doge Invade</a>
       </p>
     </h5>
     <h3>All BookMarklets:</h3>
     <h5>
+      <p>
+        <a href="JSconsole.js">JavaScript Console</a>
+      </p>
       <p>
         <a href="DogeInvade.js">Doge Invade</a>
       </p>
